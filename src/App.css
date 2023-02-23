@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+#tag {
+  width: 30cm;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#bar {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 5cm;
+}
+
+p {
+  font-size: 20px;
+  margin: 2cm;
+  background-color: orange;
+}
+
+img {
+  height:150px;
+  width: 150px;
+  margin: 1cm;
+}
